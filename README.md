@@ -7,3 +7,5 @@ I also designed a control for third power stage that would be driving aux oil pu
 
 3.2 version corrects my assumption that dsPic30f4011 uses serial protocol for communication. This was incorrect. Protocol is TTL and i built transistors to invert signal required to communicate wia serial module.
 Also i added simple autothrottle to Lebowski AC compressor controler. Now it is enough to provide 12V signal and compressor will spool up and hold RPM by torque mode.
+
+I added Solidworks 3D printer design for 18mm spacer. If you have access to mill you can make a new lid from the design.
